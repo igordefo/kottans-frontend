@@ -90,3 +90,22 @@ I advise you to print this [cheat-sheet](https://services.github.com/on-demand/d
     </tr>
   </tbody>
 </table>
+
+
+## Task 1 - Linux, Command Line, HTTP Tools
+<b>Learn the Command Line</b>
+1. Finish the course [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) :heavy_check_mark:<br> 
+![Learn the Command Line](task_1/cli.png)<br>
+The course of Codecademy helped me to fill white spaces in my knowledges of command line features. Now i feel myself completely free in own terminal, and found out all advantages of use the command line. Also I have customize my terminal, set up aliases and visual interface.<br>
+The most useful command which has simplified my workflow - grep -r.
+
+<b>Read the article 'HTTP: The Protocol Every Web Developer Must Know'</b> :heavy_check_mark:<br>
+
+With the help of these articles I achieved next results: 
+- Figured out following terms: HTTP, URL, Host. 
+- Studied in details the structure of HTTP  request and responce messages.
+- Learned a lot of new information about DNC, TCP, IP, Ethernet.
+- Get new information about the caching process.<br><br>
+
+This is two good articles, which are good for understanding of basic concepts of http protocols work. In additional to the articles I advise to newbie to check video course from pluralsight Basic HTTP. <br>
+![HTTP Fundamentals](task_1/http.png)
